@@ -13,8 +13,13 @@
 		43DEE21B29B680E500FBC625 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43DEE21929B680E500FBC625 /* Main.storyboard */; };
 		43DEE21D29B680E700FBC625 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43DEE21C29B680E700FBC625 /* Assets.xcassets */; };
 		43DEE22029B680E700FBC625 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43DEE21E29B680E700FBC625 /* LaunchScreen.storyboard */; };
+<<<<<<< HEAD
 		50AF739229B681FC0026EFCF /* LoginScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50AF739129B681FC0026EFCF /* LoginScreen.storyboard */; };
 		50AF739429B682130026EFCF /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50AF739329B682130026EFCF /* LoginViewController.swift */; };
+=======
+		C416873229B681CB00AD3EE0 /* Password-Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C416873129B681CB00AD3EE0 /* Password-Storyboard.storyboard */; };
+		C416873429B681E100AD3EE0 /* Password-ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C416873329B681E100AD3EE0 /* Password-ViewController.swift */; };
+>>>>>>> Gabriel
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +31,13 @@
 		43DEE21C29B680E700FBC625 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43DEE21F29B680E700FBC625 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43DEE22129B680E700FBC625 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		50AF739129B681FC0026EFCF /* LoginScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LoginScreen.storyboard; sourceTree = "<group>"; };
 		50AF739329B682130026EFCF /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+=======
+		C416873129B681CB00AD3EE0 /* Password-Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Password-Storyboard.storyboard"; path = "../../../Documents/Password-Storyboard.storyboard"; sourceTree = "<group>"; };
+		C416873329B681E100AD3EE0 /* Password-ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Password-ViewController.swift"; path = "../../../Documents/Password-ViewController.swift"; sourceTree = "<group>"; };
+>>>>>>> Gabriel
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +78,8 @@
 				43DEE21C29B680E700FBC625 /* Assets.xcassets */,
 				43DEE21E29B680E700FBC625 /* LaunchScreen.storyboard */,
 				43DEE22129B680E700FBC625 /* Info.plist */,
+				C416873129B681CB00AD3EE0 /* Password-Storyboard.storyboard */,
+				C416873329B681E100AD3EE0 /* Password-ViewController.swift */,
 			);
 			path = TesteTripOrganizer;
 			sourceTree = "<group>";
@@ -141,7 +153,11 @@
 			files = (
 				43DEE22029B680E700FBC625 /* LaunchScreen.storyboard in Resources */,
 				43DEE21D29B680E700FBC625 /* Assets.xcassets in Resources */,
+<<<<<<< HEAD
 				50AF739229B681FC0026EFCF /* LoginScreen.storyboard in Resources */,
+=======
+				C416873229B681CB00AD3EE0 /* Password-Storyboard.storyboard in Resources */,
+>>>>>>> Gabriel
 				43DEE21B29B680E500FBC625 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -157,6 +173,7 @@
 				43DEE21829B680E500FBC625 /* ViewController.swift in Sources */,
 				43DEE21429B680E500FBC625 /* AppDelegate.swift in Sources */,
 				43DEE21629B680E500FBC625 /* SceneDelegate.swift in Sources */,
+				C416873429B681E100AD3EE0 /* Password-ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
